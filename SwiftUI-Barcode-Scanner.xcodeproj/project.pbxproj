@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A39EF04266FF09D006127EA /* ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A39EF03266FF09D006127EA /* ScannerView.swift */; };
 		1A9B9D0E266F39F600BCB338 /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9B9D0D266F39F600BCB338 /* ScannerViewController.swift */; };
 		A844D1ED25650DCC00AF8777 /* SwiftUI_Barcode_ScannerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A844D1EC25650DCC00AF8777 /* SwiftUI_Barcode_ScannerApp.swift */; };
 		A844D1EF25650DCC00AF8777 /* BarcodeScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A844D1EE25650DCC00AF8777 /* BarcodeScannerView.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1A39EF03266FF09D006127EA /* ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerView.swift; sourceTree = "<group>"; };
 		1A9B9D0D266F39F600BCB338 /* ScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewController.swift; sourceTree = "<group>"; };
 		A844D1E925650DCC00AF8777 /* SwiftUI-Barcode-Scanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Barcode-Scanner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A844D1EC25650DCC00AF8777 /* SwiftUI_Barcode_ScannerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Barcode_ScannerApp.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				A844D1F525650DCD00AF8777 /* Info.plist */,
 				A844D1F225650DCD00AF8777 /* Preview Content */,
 				1A9B9D0D266F39F600BCB338 /* ScannerViewController.swift */,
+				1A39EF03266FF09D006127EA /* ScannerView.swift */,
 			);
 			path = "SwiftUI-Barcode-Scanner";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A844D1EF25650DCC00AF8777 /* BarcodeScannerView.swift in Sources */,
+				1A39EF04266FF09D006127EA /* ScannerView.swift in Sources */,
 				1A9B9D0E266F39F600BCB338 /* ScannerViewController.swift in Sources */,
 				A844D1ED25650DCC00AF8777 /* SwiftUI_Barcode_ScannerApp.swift in Sources */,
 			);
